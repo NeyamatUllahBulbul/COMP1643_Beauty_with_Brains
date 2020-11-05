@@ -1,0 +1,15 @@
+Login Details of individuals
+.............................
+CMS Link: https://diaicmcw.sharepoint.com/sites/Bristol9
+
+Developer: : Email: 1000350@diaicmcw.onmicrosoft.com
+	     Password: Kichujanina1
+
+Tester:      Email: tester@diaicmcw.onmicrosoft.com
+	     Password: Waj50012
+
+Designer:    Email: master@diaicmcw.onmicrosoft.com
+	     Password: Lav97927
+
+Analysist:   Email: neyamat@diaicmcw.onmicrosoft.com
+	     Password: Kichujanina1
